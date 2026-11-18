@@ -14,3 +14,4 @@ Follow the links below for detailed course information and materials:
 - [Codespace template](https://github.com/UNC-BIOS-512/codespace) (fork this repo for the Codespaces units)
 - [JupyterLite notebooks](https://github.com/UNC-BIOS-512/jupyterlite)
 - [![](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://unc-bios-512.github.io/jupyterlite)
+- [marimo notebooks](https://github.com/UNC-BIOS-512/marimo) (open them in [molab](https://molab.marimo.io), no install needed)
